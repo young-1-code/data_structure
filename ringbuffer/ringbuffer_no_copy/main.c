@@ -1,3 +1,9 @@
+/**
+ * 简介：测试循环buffer
+ * 时间：2023/9/14
+ * 作者：小C
+ * Note: 欢迎关注微信公众号[Linux编程用C]
+*/
 #include <stdio.h>
 #include <pthread.h>
 #include <time.h>
